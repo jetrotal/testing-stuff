@@ -1,0 +1,257 @@
+[2022-03-17 18:18:37] Debug: EasyRPG Player 0.6.2.3 (2020-10-03) started
+[2022-03-17 18:18:37] Debug: ===========================================
+[2022-03-17 18:18:37] Debug: Clock: StdSteady steady=1 period=ns (1 / 1000000000)
+[2022-03-17 18:18:37] Debug: Seeded the RNG with 1647551916.
+[2022-03-17 18:18:37] Debug: CLI: TestPlay HideTitle Window 
+[2022-03-17 18:18:37] Debug: SDL2: RendererInfo hw=1 sw=0 vsync=1
+[2022-03-17 18:18:37] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-03-17 18:18:37] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-03-17 18:18:37] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2022-03-17 18:18:37] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-03-17 18:18:37] Debug: Using . as Game and Save directory
+[2022-03-17 18:18:37] Debug: Loading game RPG Maker 2000 Test suite
+[2022-03-17 18:18:37] Debug: Using RPG2k Interpreter
+[2022-03-17 18:18:37] Debug: MP3 file (1000hz_MP3.mp3) found
+[2022-03-17 18:18:37] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-03-17 18:18:37] Debug: Engine configured as: 2k=1 2k3=0 MajorUpdated=1 Eng=0
+[2022-03-17 18:18:37] Debug: RTP path C:\Users\TRATOR\AppData\Roaming\KADOKAWA\Common\RPG Maker 2000 RTP is invalid, not adding
+[2022-03-17 18:18:37] Debug: Patch configuration: dynrpg=0 maniac=0
+[2022-03-17 18:18:37] Debug: Cannot find: ./ExFont
+[2022-03-17 18:18:37] Debug: Loading ExFont from .\RPG_RT.exe
+[2022-03-17 18:18:37] Debug: EXEReader: EXFONT not found in dbase at 80e23c00
+[2022-03-17 18:18:37] Debug: Actor 2: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:18:37] Debug: Actor 7: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:18:39] Debug: Starting new game
+[2022-03-17 18:18:39] Debug: Loading Map Map0030.lmu
+[2022-03-17 18:18:39] Debug: Tree: Standard world test
+[2022-03-17 18:18:41] Debug: WildMidi Failed: WildMidi: Could not find configuration file.
+[2022-03-17 18:18:53] Debug: Actor 2: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:18:53] Debug: Actor 7: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:22:42] Debug: EasyRPG Player 0.6.2.3 (2020-10-03) started
+[2022-03-17 18:22:42] Debug: ===========================================
+[2022-03-17 18:22:42] Debug: Clock: StdSteady steady=1 period=ns (1 / 1000000000)
+[2022-03-17 18:22:42] Debug: Seeded the RNG with 1647552162.
+[2022-03-17 18:22:42] Debug: CLI: TestPlay HideTitle Window 
+[2022-03-17 18:22:42] Debug: SDL2: RendererInfo hw=1 sw=0 vsync=1
+[2022-03-17 18:22:42] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-03-17 18:22:42] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-03-17 18:22:42] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2022-03-17 18:22:42] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-03-17 18:22:42] Debug: Using . as Game and Save directory
+[2022-03-17 18:22:42] Debug: Loading game RPG Maker 2000 Test suite
+[2022-03-17 18:22:42] Debug: Using RPG2k Interpreter
+[2022-03-17 18:22:42] Debug: MP3 file (1000hz_MP3.mp3) found
+[2022-03-17 18:22:42] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-03-17 18:22:42] Debug: Engine configured as: 2k=1 2k3=0 MajorUpdated=1 Eng=0
+[2022-03-17 18:22:42] Debug: RTP path C:\Users\TRATOR\AppData\Roaming\KADOKAWA\Common\RPG Maker 2000 RTP is invalid, not adding
+[2022-03-17 18:22:42] Debug: Patch configuration: dynrpg=0 maniac=0
+[2022-03-17 18:22:42] Debug: Cannot find: ./ExFont
+[2022-03-17 18:22:42] Debug: Loading ExFont from .\RPG_RT.exe
+[2022-03-17 18:22:42] Debug: EXEReader: EXFONT not found in dbase at 80e23c00
+[2022-03-17 18:22:42] Debug: Actor 2: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:22:42] Debug: Actor 7: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:22:44] Debug: Starting new game
+[2022-03-17 18:22:44] Debug: Loading Map Map0068.lmu
+[2022-03-17 18:22:44] Debug: Tree: MAP0068
+[2022-03-17 18:23:10] Debug: Actor 2: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:23:10] Debug: Actor 7: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:25:13] Debug: EasyRPG Player 0.6.2.3 (2020-10-03) started
+[2022-03-17 18:25:13] Debug: ===========================================
+[2022-03-17 18:25:13] Debug: Clock: StdSteady steady=1 period=ns (1 / 1000000000)
+[2022-03-17 18:25:13] Debug: Seeded the RNG with 1647552312.
+[2022-03-17 18:25:13] Debug: CLI: TestPlay HideTitle Window 
+[2022-03-17 18:25:13] Debug: SDL2: RendererInfo hw=1 sw=0 vsync=1
+[2022-03-17 18:25:13] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-03-17 18:25:13] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-03-17 18:25:13] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2022-03-17 18:25:13] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-03-17 18:25:13] Debug: Using . as Game and Save directory
+[2022-03-17 18:25:13] Debug: Loading game RPG Maker 2000 Test suite
+[2022-03-17 18:25:13] Debug: Using RPG2k Interpreter
+[2022-03-17 18:25:13] Debug: MP3 file (1000hz_MP3.mp3) found
+[2022-03-17 18:25:13] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-03-17 18:25:13] Debug: Engine configured as: 2k=1 2k3=0 MajorUpdated=1 Eng=0
+[2022-03-17 18:25:13] Debug: RTP path C:\Users\TRATOR\AppData\Roaming\KADOKAWA\Common\RPG Maker 2000 RTP is invalid, not adding
+[2022-03-17 18:25:13] Debug: Patch configuration: dynrpg=0 maniac=0
+[2022-03-17 18:25:13] Debug: Cannot find: ./ExFont
+[2022-03-17 18:25:13] Debug: Loading ExFont from .\RPG_RT.exe
+[2022-03-17 18:25:13] Debug: EXEReader: EXFONT not found in dbase at 80e23c00
+[2022-03-17 18:25:13] Debug: Actor 2: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:25:13] Debug: Actor 7: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:25:14] Debug: Starting new game
+[2022-03-17 18:25:14] Debug: Loading Map Map0068.lmu
+[2022-03-17 18:25:14] Debug: Tree: MAP0068
+[2022-03-17 18:25:52] Debug: Actor 2: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:25:52] Debug: Actor 7: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:25:53] Debug: EasyRPG Player 0.6.2.3 (2020-10-03) started
+[2022-03-17 18:25:53] Debug: ===========================================
+[2022-03-17 18:25:53] Debug: Clock: StdSteady steady=1 period=ns (1 / 1000000000)
+[2022-03-17 18:25:53] Debug: Seeded the RNG with 1647552353.
+[2022-03-17 18:25:53] Debug: CLI: TestPlay HideTitle Window 
+[2022-03-17 18:25:53] Debug: SDL2: RendererInfo hw=1 sw=0 vsync=1
+[2022-03-17 18:25:53] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-03-17 18:25:53] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-03-17 18:25:54] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2022-03-17 18:25:54] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-03-17 18:25:54] Debug: Using . as Game and Save directory
+[2022-03-17 18:25:54] Debug: Loading game RPG Maker 2000 Test suite
+[2022-03-17 18:25:54] Debug: Using RPG2k Interpreter
+[2022-03-17 18:25:54] Debug: MP3 file (1000hz_MP3.mp3) found
+[2022-03-17 18:25:54] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-03-17 18:25:54] Debug: Engine configured as: 2k=1 2k3=0 MajorUpdated=1 Eng=0
+[2022-03-17 18:25:54] Debug: RTP path C:\Users\TRATOR\AppData\Roaming\KADOKAWA\Common\RPG Maker 2000 RTP is invalid, not adding
+[2022-03-17 18:25:54] Debug: Patch configuration: dynrpg=0 maniac=0
+[2022-03-17 18:25:54] Debug: Cannot find: ./ExFont
+[2022-03-17 18:25:54] Debug: Loading ExFont from .\RPG_RT.exe
+[2022-03-17 18:25:54] Debug: EXEReader: EXFONT not found in dbase at 80e23c00
+[2022-03-17 18:25:54] Debug: Actor 2: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:25:54] Debug: Actor 7: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:25:57] Debug: Actor 2: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:25:57] Debug: Actor 7: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:28:08] Debug: EasyRPG Player 0.6.2.3 (2020-10-03) started
+[2022-03-17 18:28:08] Debug: ===========================================
+[2022-03-17 18:28:08] Debug: Clock: StdSteady steady=1 period=ns (1 / 1000000000)
+[2022-03-17 18:28:08] Debug: Seeded the RNG with 1647552487.
+[2022-03-17 18:28:08] Debug: CLI: TestPlay HideTitle Window 
+[2022-03-17 18:28:08] Debug: SDL2: RendererInfo hw=1 sw=0 vsync=1
+[2022-03-17 18:28:08] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-03-17 18:28:08] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-03-17 18:28:08] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2022-03-17 18:28:08] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-03-17 18:28:08] Debug: Using . as Game and Save directory
+[2022-03-17 18:28:08] Debug: Loading game RPG Maker 2000 Test suite
+[2022-03-17 18:28:08] Debug: Using RPG2k Interpreter
+[2022-03-17 18:28:08] Debug: MP3 file (1000hz_MP3.mp3) found
+[2022-03-17 18:28:08] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-03-17 18:28:08] Debug: Engine configured as: 2k=1 2k3=0 MajorUpdated=1 Eng=0
+[2022-03-17 18:28:08] Debug: RTP path C:\Users\TRATOR\AppData\Roaming\KADOKAWA\Common\RPG Maker 2000 RTP is invalid, not adding
+[2022-03-17 18:28:08] Debug: Patch configuration: dynrpg=0 maniac=0
+[2022-03-17 18:28:08] Debug: Cannot find: ./ExFont
+[2022-03-17 18:28:08] Debug: Loading ExFont from .\RPG_RT.exe
+[2022-03-17 18:28:08] Debug: EXEReader: EXFONT not found in dbase at 80e23c00
+[2022-03-17 18:28:08] Debug: Actor 2: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:28:08] Debug: Actor 7: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:28:10] Debug: Starting new game
+[2022-03-17 18:28:10] Debug: Loading Map Map0068.lmu
+[2022-03-17 18:28:10] Debug: Tree: MAP0068
+[2022-03-17 18:30:42] Debug: Saving Screenshot .\screenshot_0.png
+[2022-03-17 18:31:40] Debug: Actor 2: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:31:40] Debug: Actor 7: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:32:09] Debug: EasyRPG Player 0.6.2.3 (2020-10-03) started
+[2022-03-17 18:32:09] Debug: ===========================================
+[2022-03-17 18:32:09] Debug: Clock: StdSteady steady=1 period=ns (1 / 1000000000)
+[2022-03-17 18:32:09] Debug: Seeded the RNG with 1647552728.
+[2022-03-17 18:32:09] Debug: CLI: TestPlay HideTitle Window 
+[2022-03-17 18:32:09] Debug: SDL2: RendererInfo hw=1 sw=0 vsync=1
+[2022-03-17 18:32:09] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-03-17 18:32:09] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-03-17 18:32:09] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2022-03-17 18:32:09] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-03-17 18:32:09] Debug: Using . as Game and Save directory
+[2022-03-17 18:32:09] Debug: Loading game RPG Maker 2000 Test suite
+[2022-03-17 18:32:09] Debug: Using RPG2k Interpreter
+[2022-03-17 18:32:09] Debug: MP3 file (1000hz_MP3.mp3) found
+[2022-03-17 18:32:09] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-03-17 18:32:09] Debug: Engine configured as: 2k=1 2k3=0 MajorUpdated=1 Eng=0
+[2022-03-17 18:32:09] Debug: RTP path C:\Users\TRATOR\AppData\Roaming\KADOKAWA\Common\RPG Maker 2000 RTP is invalid, not adding
+[2022-03-17 18:32:09] Debug: Patch configuration: dynrpg=0 maniac=0
+[2022-03-17 18:32:09] Debug: Cannot find: ./ExFont
+[2022-03-17 18:32:09] Debug: Loading ExFont from .\RPG_RT.exe
+[2022-03-17 18:32:09] Debug: EXEReader: EXFONT not found in dbase at 80e23c00
+[2022-03-17 18:32:09] Debug: Actor 2: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:32:09] Debug: Actor 7: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:33:30] Debug: Starting new game
+[2022-03-17 18:33:30] Debug: Loading Map Map0068.lmu
+[2022-03-17 18:33:30] Debug: Tree: MAP0068
+[2022-03-17 18:34:11] Debug: Actor 2: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:34:11] Debug: Actor 7: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:47:35] Debug: EasyRPG Player 0.6.2.3 (2020-10-03) started
+[2022-03-17 18:47:35] Debug: ===========================================
+[2022-03-17 18:47:35] Debug: Clock: StdSteady steady=1 period=ns (1 / 1000000000)
+[2022-03-17 18:47:35] Debug: Seeded the RNG with 1647553655.
+[2022-03-17 18:47:35] Debug: CLI: TestPlay HideTitle Window 
+[2022-03-17 18:47:35] Debug: SDL2: RendererInfo hw=1 sw=0 vsync=1
+[2022-03-17 18:47:35] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-03-17 18:47:35] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-03-17 18:47:36] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2022-03-17 18:47:36] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-03-17 18:47:36] Debug: Using . as Game and Save directory
+[2022-03-17 18:47:36] Debug: Loading game RPG Maker 2000 Test suite
+[2022-03-17 18:47:36] Debug: Using RPG2k Interpreter
+[2022-03-17 18:47:36] Debug: MP3 file (1000hz_MP3.mp3) found
+[2022-03-17 18:47:36] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-03-17 18:47:36] Debug: Engine configured as: 2k=1 2k3=0 MajorUpdated=1 Eng=0
+[2022-03-17 18:47:36] Debug: RTP path C:\Users\TRATOR\AppData\Roaming\KADOKAWA\Common\RPG Maker 2000 RTP is invalid, not adding
+[2022-03-17 18:47:36] Debug: Patch configuration: dynrpg=0 maniac=0
+[2022-03-17 18:47:36] Debug: Cannot find: ./ExFont
+[2022-03-17 18:47:36] Debug: Loading ExFont from .\RPG_RT.exe
+[2022-03-17 18:47:36] Debug: EXEReader: EXFONT not found in dbase at 80e23c00
+[2022-03-17 18:47:36] Debug: Actor 2: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:47:36] Debug: Actor 7: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:47:49] Debug: Starting new game
+[2022-03-17 18:47:49] Debug: Loading Map Map0068.lmu
+[2022-03-17 18:47:49] Debug: Tree: MAP0068
+[2022-03-17 18:47:50] Debug: Game uses RTP "Official English"
+[2022-03-17 18:47:50] Debug: Cannot find: CharSet/Actor1
+[2022-03-17 18:47:50] Warning: Image not found: CharSet/Actor1
+[2022-03-17 18:48:02] Debug: Actor 2: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:48:02] Debug: Actor 7: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:49:26] Debug: EasyRPG Player 0.6.2.3 (2020-10-03) started
+[2022-03-17 18:49:26] Debug: ===========================================
+[2022-03-17 18:49:26] Debug: Clock: StdSteady steady=1 period=ns (1 / 1000000000)
+[2022-03-17 18:49:26] Debug: Seeded the RNG with 1647553766.
+[2022-03-17 18:49:26] Debug: CLI: TestPlay HideTitle Window 
+[2022-03-17 18:49:26] Debug: SDL2: RendererInfo hw=1 sw=0 vsync=1
+[2022-03-17 18:49:26] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-03-17 18:49:26] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-03-17 18:49:26] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2022-03-17 18:49:26] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-03-17 18:49:26] Debug: Using . as Game and Save directory
+[2022-03-17 18:49:26] Debug: Loading game RPG Maker 2000 Test suite
+[2022-03-17 18:49:26] Debug: Using RPG2k Interpreter
+[2022-03-17 18:49:26] Debug: MP3 file (1000hz_MP3.mp3) found
+[2022-03-17 18:49:26] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-03-17 18:49:26] Debug: Engine configured as: 2k=1 2k3=0 MajorUpdated=1 Eng=0
+[2022-03-17 18:49:26] Debug: RTP path C:\Users\TRATOR\AppData\Roaming\KADOKAWA\Common\RPG Maker 2000 RTP is invalid, not adding
+[2022-03-17 18:49:26] Debug: Patch configuration: dynrpg=0 maniac=0
+[2022-03-17 18:49:26] Debug: Cannot find: ./ExFont
+[2022-03-17 18:49:26] Debug: Loading ExFont from .\RPG_RT.exe
+[2022-03-17 18:49:26] Debug: EXEReader: EXFONT not found in dbase at 80e23c00
+[2022-03-17 18:49:26] Debug: Actor 2: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:49:26] Debug: Actor 7: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:49:56] Debug: Starting new game
+[2022-03-17 18:49:56] Debug: Loading Map Map0068.lmu
+[2022-03-17 18:49:56] Debug: Tree: MAP0068
+[2022-03-17 18:50:30] Debug: Actor 2: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:50:30] Debug: Actor 7: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:50:37] Debug: Actor 2: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:50:37] Debug: Actor 7: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:54:31] Debug: EasyRPG Player 0.6.2.3 (2020-10-03) started
+[2022-03-17 18:54:31] Debug: ===========================================
+[2022-03-17 18:54:31] Debug: Clock: StdSteady steady=1 period=ns (1 / 1000000000)
+[2022-03-17 18:54:31] Debug: Seeded the RNG with 1647554071.
+[2022-03-17 18:54:31] Debug: CLI: TestPlay HideTitle Window 
+[2022-03-17 18:54:31] Debug: SDL2: RendererInfo hw=1 sw=0 vsync=1
+[2022-03-17 18:54:31] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-03-17 18:54:31] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-03-17 18:54:31] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2022-03-17 18:54:31] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-03-17 18:54:31] Debug: Using . as Game and Save directory
+[2022-03-17 18:54:31] Debug: Loading game RPG Maker 2000 Test suite
+[2022-03-17 18:54:31] Debug: Using RPG2k Interpreter
+[2022-03-17 18:54:31] Debug: MP3 file (1000hz_MP3.mp3) found
+[2022-03-17 18:54:31] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-03-17 18:54:31] Debug: Engine configured as: 2k=1 2k3=0 MajorUpdated=1 Eng=0
+[2022-03-17 18:54:31] Debug: RTP path C:\Users\TRATOR\AppData\Roaming\KADOKAWA\Common\RPG Maker 2000 RTP is invalid, not adding
+[2022-03-17 18:54:31] Debug: Patch configuration: dynrpg=0 maniac=0
+[2022-03-17 18:54:31] Debug: Cannot find: ./ExFont
+[2022-03-17 18:54:31] Debug: Loading ExFont from .\RPG_RT.exe
+[2022-03-17 18:54:31] Debug: EXEReader: EXFONT not found in dbase at 80e23c00
+[2022-03-17 18:54:31] Debug: Actor 2: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:54:31] Debug: Actor 7: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:55:03] Debug: Starting new game
+[2022-03-17 18:55:03] Debug: Loading Map Map0068.lmu
+[2022-03-17 18:55:03] Debug: Tree: MAP0068
+[2022-03-17 18:55:04] Debug: libpng: iCCP: known incorrect sRGB profile
+[2022-03-17 18:55:44] Debug: Actor 2: Removing item 18 from equipment slot 1 (Not equippable by this actor)
+[2022-03-17 18:55:44] Debug: Actor 7: Removing item 18 from equipment slot 1 (Not equippable by this actor)
