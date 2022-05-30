@@ -35,7 +35,8 @@ Module = {
     totalDependencies: 0,
     monitorRunDependencies: left=>{
         Module.totalDependencies = Math.max(Module.totalDependencies, left);
-        Module.setStatus(left ? `Preparing... (${Module.totalDependencies - left}/${Module.totalDependencies})` : "Downloading game data...")
+        Module.setStatus(left ? `Preparing... (${Module.totalDependencies - left}/${Module.totalDependencies})` : "Downloading game data...");
+        initPreloader(resp);
     }
 };
 function parseArgs() {
@@ -606,7 +607,6 @@ function getBinaryPromise() {
                 if (!response["ok"]) {
                     throw "failed to load wasm binary file at '" + wasmBinaryFile + "'"
                 }
-                initPreloader(response);
                 return response["arrayBuffer"]()
             }).catch(function() {
                 return getBinary(wasmBinaryFile)
@@ -657,7 +657,8 @@ function createWasm() {
         if (!wasmBinary && typeof WebAssembly.instantiateStreaming === "function" && !isDataURI(wasmBinaryFile) && !isFileURI(wasmBinaryFile) && typeof fetch === "function") {
             return fetch(wasmBinaryFile, {
                 credentials: "same-origin"
-            }).then(function(response) {    
+            }).then(function(response) {
+              resp = response;
                 var result = WebAssembly.instantiateStreaming(response, info);
                 return result.then(receiveInstantiationResult, function(reason) {
                     err("wasm streaming compile failed: " + reason);
