@@ -36,7 +36,10 @@ Module = {
     monitorRunDependencies: left=>{
         Module.totalDependencies = Math.max(Module.totalDependencies, left);
         Module.setStatus(left ? `Preparing... (${Module.totalDependencies - left}/${Module.totalDependencies})` : "Downloading game data...");
-        initPreloader(resp);
+
+        try{
+            initPreloader(resp);
+        } catch(e){}
     }
 };
 function parseArgs() {
