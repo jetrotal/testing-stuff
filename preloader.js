@@ -100,7 +100,7 @@ async function Watch_Uint8Array_length(obj) {
        break;
                }
     receivedLength += value.length;
-      
+      if (percentage.old > 100) contentLength = null;
     if (contentLength) {
       percentage.current = Math.round(receivedLength / contentLength * 100);
         
@@ -108,7 +108,7 @@ async function Watch_Uint8Array_length(obj) {
       else percentage.old = percentage.current;
       
       message = percentage.current;
-    } else message = "Downloading\n " + formatBytes(receivedLength);
+    } else message = "Loading\n " + formatBytes(receivedLength);
     
     updateLoader(message);    
   }
