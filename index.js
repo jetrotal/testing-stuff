@@ -661,7 +661,7 @@ function createWasm() {
             return fetch(wasmBinaryFile, {
                 credentials: "same-origin"
             }).then(function(response) {
-              resp = response;
+              //resp = response;
                 var result = WebAssembly.instantiateStreaming(response, info);
                 return result.then(receiveInstantiationResult, function(reason) {
                     err("wasm streaming compile failed: " + reason);
