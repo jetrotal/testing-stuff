@@ -108,7 +108,7 @@ async function Watch_Uint8Array_length(obj) {
       else percentage.old = percentage.current;
       
       message = percentage.current;
-    } else message = "Extracting\n " + formatBytes(receivedLength);
+    } else message = "Loading\n " + formatBytes(receivedLength);
     
     updateLoader(message);    
   }
