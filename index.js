@@ -37,10 +37,7 @@ Module = {
         Module.totalDependencies = Math.max(Module.totalDependencies, left);
         Module.setStatus(left ? `Preparing... (${Module.totalDependencies - left}/${Module.totalDependencies})` : "Downloading game data...");
 
-        try{
-            initPreloader(resp);
-        } catch(e){}
-    }
+
 };
 function parseArgs() {
     const items = window.location.search.substr(1).split("&");
