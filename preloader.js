@@ -74,7 +74,7 @@ const preloaderHTML = `
 
 function initPreloader(response) {
     
-  //document.getElementById("status").innerHTML += preloaderHTML;
+  document.getElementById("status").innerHTML += preloaderHTML;
     
   resp = response;
   reader = resp.body.getReader();
@@ -131,8 +131,9 @@ function changeProp(el, val, type = "--loader") {
   document.documentElement.style.setProperty(type + el, val);
 }
 
-function beginFetch(){
+/* function beginFetch(){
   fetch(wasmBinaryFile, {credentials:"same-origin"}).then(response => {
   initPreloader(response);
   })
 };
+*///
