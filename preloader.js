@@ -5,13 +5,13 @@ const logoURL = "https://raw.githubusercontent.com/jetrotal/OpenRTP-CheckList/gh
 
 const preloaderHTML = `
 <div id=preloader>
-  <div id=loader><img src=${logoURL} id=loaderLogo onload="updateLoader('preparing');"></div>
+  <div id=loader><img src=${logoURL} id=loaderLogo onload="beginFetch()"></div>
   <style id=preloaderStyle>
     :root {
       --loaderColor: #72b740;
       --loaderBGcolor: #262f23;
       --loaderVal: 0;
-      --loaderStatus: "";
+      --loaderStatus: "Preparing";
       --loaderDisplay: visible;
       --loaderBar: 1;
     }
@@ -74,7 +74,7 @@ const preloaderHTML = `
 
 function initPreloader(response) {
     
-  document.getElementById("status").innerHTML += preloaderHTML;
+  //document.getElementById("status").innerHTML += preloaderHTML;
     
   resp = response;
   reader = resp.body.getReader();
@@ -131,6 +131,8 @@ function changeProp(el, val, type = "--loader") {
   document.documentElement.style.setProperty(type + el, val);
 }
 
-/* fetch(wasmBinaryFile, {credentials:"same-origin"}).then(response => {
+function beginFetch(){
+  fetch(wasmBinaryFile, {credentials:"same-origin"}).then(response => {
   initPreloader(response);
-}); */
+  })
+};
