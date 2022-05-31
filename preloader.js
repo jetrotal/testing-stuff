@@ -5,7 +5,7 @@ const logoURL = "https://raw.githubusercontent.com/jetrotal/OpenRTP-CheckList/gh
 
 const preloaderHTML = `
 <div id=preloader>
-  <div id=loader><img src=${logoURL} id=loaderLogo onload="beginFetch()"></div>
+  <div id=loader><img src=${logoURL} id=loaderLogo onload=""></div>
   <style id=preloaderStyle>
     :root {
       --loaderColor: #72b740;
