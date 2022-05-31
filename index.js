@@ -36,6 +36,7 @@ Module = {
     monitorRunDependencies: left=>{
         Module.totalDependencies = Math.max(Module.totalDependencies, left);
         Module.setStatus(left ? `Preparing... (${Module.totalDependencies - left}/${Module.totalDependencies})` : "Downloading game data...")
+    }
 };
 function parseArgs() {
     const items = window.location.search.substr(1).split("&");
