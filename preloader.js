@@ -1,5 +1,3 @@
-const hasPreloader = 1;
-
 var resp, reader, receivedLength = 0, contentLength = 0; 
 var percentage = {old:"", current:""};
 
