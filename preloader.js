@@ -96,8 +96,10 @@ async function Watch_Uint8Array_length(obj) {
     const {done, value} = await obj.read();
     
       if (done){ 
-       updateLoader("done");
-       break;
+        resp = reader = receivedLength = contentLength = "";
+        percentage = {old:"", current:""};
+        updateLoader("done");
+        break;
                }
     receivedLength += value.length;
       if (percentage.old > 100) contentLength = null;
